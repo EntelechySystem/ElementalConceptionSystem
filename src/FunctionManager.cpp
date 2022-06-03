@@ -5,4 +5,6 @@
 #include "FunctionManager.h"
 
 namespace ElementalCognitionSystem {
+
+
 } // ElementalCognitionSystem
