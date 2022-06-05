@@ -3,3 +3,8 @@
 //
 
 #include "TaskManager.h"
+
+
+void TaskManager::initTask() {
+
+}
