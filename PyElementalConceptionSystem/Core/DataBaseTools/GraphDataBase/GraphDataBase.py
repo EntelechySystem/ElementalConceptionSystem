@@ -18,3 +18,8 @@ class DbModelTest(TestCase):
     ]
     def setUp(self):
         self.db=Dagoba(self.nodes)
+
+    def test_nodes(self):
+        nodes=list(self.db.nodes())
+        self.assertEqual(1,len(edges))
+        self.assert_item(edges,_from=1,_to=2)
