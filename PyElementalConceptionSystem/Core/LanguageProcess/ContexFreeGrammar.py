@@ -63,7 +63,7 @@ E0 = Grammar('E0',
                  RelClause='That VP'),
 
              Lexicon(  # Lexicon for E_0 [Figure 22.3]
-                 动作名词
+                 动作名词="",
                  名词="stench | breeze | glitter | nothing | wumpus | pit | pits | gold | east",  # noqa
                  动词="is | see | smell | shoot | fell | stinks | go | grab | carry | kill | turn | feel",  # noqa
                  形容词="right | left | east | south | back | smelly",
