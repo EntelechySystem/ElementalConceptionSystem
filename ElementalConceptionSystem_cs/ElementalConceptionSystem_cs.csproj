@@ -18,4 +18,8 @@
 		<RootNamespace>ECS</RootNamespace>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <Folder Include="Core\DatabaseBase" />
+	</ItemGroup>
+
 </Project>
