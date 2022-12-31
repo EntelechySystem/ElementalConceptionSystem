@@ -22,4 +22,8 @@
 	  <Folder Include="Core\DatabaseBase" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="System.Text.Json" Version="7.0.1" />
+	</ItemGroup>
+
 </Project>
