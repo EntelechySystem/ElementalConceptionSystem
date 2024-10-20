@@ -1,6 +1,6 @@
 """
 @File   : PyElementalConceptionSystem.py
-@Author : Ethan Lin
+@Author : Yee Cube
 @Date   : 2022/08/16
 @Desc   : 
 """

@@ -1,6 +1,6 @@
 """
 @File   : ContexFreeGrammar.py
-@Author : Ethan Lin
+@Author : Yee Cube
 @Date   : 2022/08/17
 @Desc   : 上下文无关语法。来源：aima-python-master。
 """
